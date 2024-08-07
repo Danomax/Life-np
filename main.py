@@ -3,7 +3,7 @@
 A conway's Game of Life Interactive implementation
 Using Numpy for calculation and Tcod for Presentation
 
-Daniel Cortés (Reseracho)
+Daniel Cortés (Danomax, Researcho)
 06 August 2024
 '''
 
