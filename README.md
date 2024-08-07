@@ -4,6 +4,11 @@ Numpy + Tcod Implementation
 
 2024 Aug Researcho, see LICENSE
 
+Installation:
+install Python, then install numpy and tcod with pip, or alternatively: 
+
+>pip install -r requirements.txt
+
 Usage:
 
 >python main.py all/'any_file'
